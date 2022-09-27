@@ -1,1 +1,1 @@
-https://github.com/fullstack-decal-fa22/hw2-yusufahmad5885
+https://fullstack-decal-fa22.github.io/hw2-yusufahmad5885/
